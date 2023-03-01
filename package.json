@@ -2,7 +2,7 @@
   "name": "22tut",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/wxy-133/react_deploy_netlify",
+  "homepage": "https://wxy-133.github.io/react_deploy_netlify",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "react": "^17.0.2",
