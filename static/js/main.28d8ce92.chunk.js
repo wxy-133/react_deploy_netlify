@@ -1,0 +1,2 @@
+(this.webpackJsonp22tut=this.webpackJsonp22tut||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),r=n(3),s=n.n(r),d=n(0);var h=function(){return Object(d.jsxs)("div",{children:[Object(d.jsx)("h2",{children:"hello delopy netlify"}),Object(d.jsx)("h3",{children:"i like it"})]})};s.a.render(Object(d.jsx)(i.a.StrictMode,{children:Object(d.jsx)(h,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.28d8ce92.chunk.js.map
