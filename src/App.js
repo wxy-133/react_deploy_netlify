@@ -2,7 +2,10 @@ import React from 'react'
 
  function App() {
   return (
-    <div>index</div>
+    <div>
+      <h2>hello delopy netlify</h2>
+      <h3>i like it</h3>
+    </div>
   )
 }
 
